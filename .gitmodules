@@ -1,0 +1,13 @@
+[submodule "Vendor/imgui"]
+	path = Vendor/imgui
+	url = https://github.com/gilmar-sales/imgui.git
+	branch = docking
+[submodule "Vendor/glfw"]
+	path = Vendor/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "Vendor/glad"]
+	path = Vendor/glad
+	url = https://github.com/gilmar-sales/glad.git
+[submodule "Vendor/fmtlog"]
+	path = Vendor/fmtlog
+	url = https://github.com/MengRao/fmtlog.git
